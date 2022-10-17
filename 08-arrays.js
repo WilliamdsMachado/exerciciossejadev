@@ -23,4 +23,3 @@ for (let pos in newArray) {
   //console.log(newArray[pos])
 }
 
-// for..of
